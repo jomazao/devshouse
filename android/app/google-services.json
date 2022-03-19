@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "932115802759",
+    "project_id": "devshouse-4a047",
+    "storage_bucket": "devshouse-4a047.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:932115802759:android:764de24b01ae44354aa622",
+        "android_client_info": {
+          "package_name": "com.ibacrea.devshouse"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "932115802759-6ep31oca131p2fvufbbnlad04ao1aei4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_hDQdOfxll5Bg1jbdyCZIaaR3Yul_lyY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "932115802759-6ep31oca131p2fvufbbnlad04ao1aei4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
