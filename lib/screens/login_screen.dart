@@ -1,5 +1,5 @@
 import 'package:cloud_firestore/cloud_firestore.dart';
-import 'package:devshouse/screens/my_courses_screen.dart';
+import 'package:devshouse/screens/my_courses/my_courses_screen.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/material.dart';
 import 'package:devshouse/extension/desing_extensions.dart';
